@@ -60,6 +60,7 @@
           <option name="seekbar" value="false">
             <options>
               <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
             </options>
           </option>
           <option name="search" value="false" />
@@ -1262,8 +1263,8 @@
             <slidelink slideid="_player.6163ioD0GIX.5uihihrD9wb" displaytext="Гермоклапан: демонстрация" expand="false" type="slide" />
             <slidelink slideid="_player.6163ioD0GIX.5zFimgLaz6U" displaytext="Содержание: распределительные краны" expand="false" type="slide" />
             <slidelink slideid="_player.6163ioD0GIX.6oNiLkqLJWN" displaytext="Распределительная арматура" expand="false" type="slide" />
-            <slidelink slideid="_player.6163ioD0GIX.5veTe5yiTUE" displaytext="Изменяем форму прорези" expand="false" type="slide" />
             <slidelink slideid="_player.6163ioD0GIX.6hB2v0xYK0Q" displaytext="Кран как распределительная арматура" expand="false" type="slide" />
+            <slidelink slideid="_player.6163ioD0GIX.5veTe5yiTUE" displaytext="Изменяем форму прорези" expand="false" type="slide" />
             <slidelink slideid="_player.6163ioD0GIX.6AG2Mr4Dbzk" displaytext="Схемы работы распределительных кранов" expand="false" type="slide" />
             <slidelink slideid="_player.6163ioD0GIX.6XhB548yVfC" displaytext="Распределительные краны для магистральных трубопроводов" expand="false" type="slide" />
             <slidelink slideid="_player.6163ioD0GIX.66liZc1HzMV" displaytext="Содержание: скребковые краны" expand="false" type="slide" />
@@ -1287,8 +1288,8 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='PF BeauSans Pro' style='font-size: 11px;' size='11' color='#444444'&gt;&amp;#1047;&amp;#1076;&amp;#1077;&amp;#1089;&amp;#1100; &amp;#1087;&amp;#1086;&amp;#1083;&amp;#1077;&amp;#1079;&amp;#1085;&amp;#1099;&amp;#1077; &amp;#1076;&amp;#1086;&amp;#1082;&amp;#1091;&amp;#1084;&amp;#1077;&amp;#1085;&amp;#1090;&amp;#1099; &amp;#1080; &amp;#1089;&amp;#1089;&amp;#1099;&amp;#1083;&amp;#1082;&amp;#1080;:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/GOST 24856-2014.pdf" image="story_content/6EoT5yIw4yC.png" title="ГОСТ 24856-2014" />
-      <resource url="story_content/external_files/Таблица терминов.pdf" image="story_content/6I0t7VaqLgW.png" title="Таблица терминов" />
+      <resource url="story_content/external_files/GOST 24856-2014.pdf" image="story_content/6VasgAOPSP3.png" title="ГОСТ 24856-2014" />
+      <resource url="story_content/external_files/Таблица терминов.pdf" image="story_content/5UsXsMyvhin.png" title="Таблица терминов" />
     </resources>
   </resource_data>
   <transcript_data />
